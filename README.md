@@ -10,12 +10,12 @@ I am a Computer Science and Engineering with a passion for software engineering,
 - 🌱 I’m currently learning IDOR (Insecure Direct Object Reference) vulnerability.
 - 👯 I’m looking to collaborate on open source projects and bug bounties.
 - 💬 Ask me about bug hunting and space technology.
-- 📫 How to reach me: Twitter
+- 📫 How to reach me: linkedin
 - ⚡ Fun fact: I'm fascinated by the possibility of life on other planets.
 
 ## 🛠️ My Skills
 
-**Languages**: "still learning..."
+**Languages**: still learning 
   - Python
   - c
 ## **Pentesting**
