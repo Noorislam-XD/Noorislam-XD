@@ -23,7 +23,7 @@
   Actively hunting bugs, learning IDOR, and dreaming about alien life.
 
 > current_mission
-  [ ] Master IDOR & web application security
+  [ ] Master web application security
   [ ] Contribute to open-source projects
   [x] Fall deeper in love with Linux & LLMs
 ```
